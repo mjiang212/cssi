@@ -1,0 +1,9 @@
+/cslab/home/mjiang/Downloads/arduino-nightly/hardware/arduino/avr/firmwares/wifishield/scripts/ArduinoWifiShield_upgrade.sh
+/cslab/home/mjiang/Downloads/arduino-nightly/hardware/arduino/avr/firmwares/wifishield/scripts/ArduinoWifiShield_upgrade_mac.sh
+/cslab/home/mjiang/Downloads/arduino-nightly/hardware/tools/avr/libexec/gcc/avr/4.8.1/install-tools/fixinc.sh
+/cslab/home/mjiang/Downloads/arduino-nightly/libraries/Firmata/release.sh
+/cslab/home/mjiang/Downloads/arduino-nightly/libraries/WiFi/extras/scripts/ArduinoWifiShield_upgrade.sh
+/cslab/home/mjiang/Downloads/arduino-nightly/tools/Mangler/make.sh
+/cslab/home/mjiang/Downloads/arduino-nightly/install.sh
+/cslab/home/mjiang/cs305/testing.sh
+/cslab/home/mjiang/tmp/mywget.sh
