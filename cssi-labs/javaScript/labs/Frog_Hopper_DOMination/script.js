@@ -14,12 +14,27 @@
 
 let currentlily = 1;
 
-let frogger = /*use a querySelector to grab your frog from your HTML*/;
+let frogger = document.querySelector('#frog')/*use a querySelector to grab your frog from your HTML*/;
 
-frogger.addEventListener(/* Insert type of event are we listening for */, function(){
+frogger.addEventListener('click'/* Insert type of event are we listening for */, function(){
 // Insert what should happen when you click on the frog!
-
-
-
-
+  console.log('hop');
+  frog.addEventListener('click', e=>{
+  frog.style.left = "33.5%";
+  frog.style.top=   "24%";
+  // Q2, 3: adding/removing glowing...
+  document.getElementById("lilypad2").classList.add("active");
+});
+  document.getElementById("lilypad1").classList.remove("active");
+});
+// adding addEventListener....
+frogger.addEventListener('mouseover' /* Insert type of event are we listening for */, function(){
+// Insert what should happen when you mouseover the frog!
+  frog.style.height = "80px";
+  frog.style.width = "80px";
+});
+frogger.addEventListener('mouseout' /* Insert type of event are we listening for */, function(){
+// Insert what should happen when you mouseover the frog!
+  frog.style.height = "70px";
+  frog.style.width = "70px";
 });
